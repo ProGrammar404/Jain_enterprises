@@ -1,2 +1,2 @@
 # Jain_enterprises
-Jain Enterprises website
+This is the business website of Jain Enterprises.
